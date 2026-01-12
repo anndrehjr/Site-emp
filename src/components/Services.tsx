@@ -25,7 +25,7 @@ const Services = () => {
     {
       icon: Megaphone,
       title: "Marketing Digital",
-      description: "Estratégias personalizadas para aumentar sua presença online.",
+      description: "Estratégias personalizadas para aumentar sua presença online em todas plataformas.",
       features: ["Redes Sociais", "SEO", "Anúncios", "Conteúdo"],
     },
     {
